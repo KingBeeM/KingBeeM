@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 - Engineer Big Data Analysis (expected)
 - ADsP (expected)
 - SQLD (expected)
+- DAsP (expected)
 - ADP (expected)
 - SQLP (expected)
+- DAP (expected)
 
 ## 2023's Team Project
 
