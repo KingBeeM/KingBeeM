@@ -27,16 +27,19 @@ Here are some ideas to get you started:
 
 ## Career
 
-- 2023.04.01 ~ 2023.04.11 : Nexon's EA sports FIFA online 4 Manager Mode Rangker (High rangking 5000th)
-- 2022.12.28 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 
-K-Digital Training (Big Data Analysis Expert course using AI platform)
+- 2023.04 : Nexon's EA sports FIFA online 4 Manager Mode Rangker (High rangking 5000th)
+- 2022.12.28 ~ 2023.06 (expected) : K-Digital Training (Big Data Analysis Expert course using AI platform)
 - 2018.04.12 ~ 2019.12.08 : Auxiliary Police
 
 
 ## Certification
 
 - Engineer Information Processing
-
+- Engineer Big Data Analysis (expected)
+- ADsP (expected)
+- SQLD (expected)
+- ADP (expected)
+- SQLP (expected)
 
 ## 2023's Team Project
 
