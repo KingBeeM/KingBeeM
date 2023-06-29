@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 
 ## 2023's Personal Project
 
-- Virual Assistant - Jieun's with Python
+- Chatbot (virtual assistant) using crawling and STT/TTS/NLP - Jieun's with Python
 - Latest Trend Web Crawling with R
