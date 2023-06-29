@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 2023's Team Project
 
-- Forest fire prediction model through machine learning and forest fire classification model through deep learning with Python
+- Gangwon-do Forest Fire Prediction and Damage Minimization Project: Model Development Using Machine Learning and Deep Learning with Python
 - Prediction by product by store using Kaggle's sales store data with Python
 - Analysis of factors affecting adolescent mental health with Python
 - Welcom to Korea Tourism Big Data Analysis with Hadoop
