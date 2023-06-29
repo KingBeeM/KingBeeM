@@ -47,10 +47,11 @@ Here are some ideas to get you started:
 
 - Forest fire prediction model through machine learning and forest fire classification model through deep learning with Python
 - Prediction by product by store using Kaggle's sales store data with Python
-- Carbon Zero Project to Prevent Global Extinction with R
+- Analysis of factors affecting adolescent mental health with Python
 - Welcom to Korea Tourism Big Data Analysis with Hadoop
+- Carbon Zero Project to Prevent Global Extinction with R
 
 ## 2023's Personal Project
 
-- Latest Trend Web Crawling with R
 - Virual Assistant - Jieun's with Python
+- Latest Trend Web Crawling with R
