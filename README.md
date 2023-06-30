@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Engineer Information Processing
 - Engineer Big Data Analysis (expected)
 - ADsP (expected)
-- SQLD (expected)
+- SQLD
 - DAsP (expected)
 - ADP (expected)
 - SQLP (expected)
